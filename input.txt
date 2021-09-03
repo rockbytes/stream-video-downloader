@@ -1,0 +1,3 @@
+https://hls.videocc.net/01b768ec8c/8/01b768ec8cb888b48e09e609c05032b8.m3u8?device=desktop&pid=1585464584952X1563453   分段中计算行程
+https://hls.videocc.net/01b768ec8c/1/01b768ec8c9f22fd40d63ad7acbbef71.m3u8?device=desktop&pid=1585464509236X1385219   分段中的倍数
+https://resource.aixuexi.com/B:1008:K/1571673600/c5096b862b4e4e95b5082e8633fc8678.mp4 学习痛点
